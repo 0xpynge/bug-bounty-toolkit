@@ -86,3 +86,12 @@ If you know of other useful tools that should be added, feel free to submit a pu
 - Amass https://github.com/OWASP/Amass
 
 Happy hunting! 🐞🔍
+
+## 📌 Author
+Rani Kamaleddine
+
+[GitHub Profile](https://github.com/r4n1-exe)
+
+[LinkedIn](https://www.linkedin.com/in/rani-kamaleddine)
+
+
