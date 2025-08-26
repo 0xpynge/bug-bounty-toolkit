@@ -1,3 +1,6 @@
+# COMPLETE BUG BOUNTY TOOL LIST
+
+Welcome to the **Complete Bug Bounty Tool List** - a curated collection of essential tools used by bug bounty hunters and security researchers. This repository serves as a handy reference to some of the best open-source and freely available tools for reconnaissance, scanning, exploitation, and reporting vulnerabilities.
 
 ## Why This List?
 
