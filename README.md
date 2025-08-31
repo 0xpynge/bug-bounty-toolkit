@@ -6,7 +6,7 @@ Welcome to the **Complete Bug Bounty Tool List** - a curated collection of essen
 
 Bug bounty hunting involves a wide range of activities, from information gathering to vulnerability exploitation. Knowing the right tools and where to find them can save you tons of time and effort. This list aims to provide a one-stop collection of trusted tools that you can explore and use in your bug bounty workflow.
 
-## What’s Inside
+## What’s Inside?
 
 This README contains direct links to various bug bounty tools, including but not limited to:
 
