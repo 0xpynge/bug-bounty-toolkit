@@ -8,7 +8,7 @@ Bug bounty hunting involves a wide range of activities, from information gatheri
 
 ## What’s Inside?
 
-This README contains direct links to various bug bounty tools, including but not limited to
+This README contains direct links to various bug bounty tools, including but not limited to:
 
 - Subdomain enumeration tools  
 - Network scanners  
